@@ -2,4 +2,4 @@ ML_files
 ========
 
 Nothing here yet!
-(docs/images/testing.jpg)
+(docs/images/daisies.jpg)
